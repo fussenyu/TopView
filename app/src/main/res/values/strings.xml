@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TopView</string>
+    <string name="analyze_week">周</string>
+    <string name="analyze_month">月</string>
+    <string name="analyze_year">年</string>
+    <string name="analyze_all">总</string>
+</resources>
